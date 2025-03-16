@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/임베디드 통신시스템/arduino"
+		},
+		{
+			"name": "hello",
+			"path": "../../hello"
+		},
+		{
+			"name": "led_traffic",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hello"
+	}
+}
